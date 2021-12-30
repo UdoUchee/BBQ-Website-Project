@@ -2,7 +2,7 @@
 # Design BBQ Landing Page
 *2021-12-29*
 
-![The San Juan Mountains are beautiful!](/BBQ Landing design "San Juan Mountains")
+![BBQ Master](/BBQ Landing design.jpg "San Juan Mountains")
 
 
 **#imagineFrontEnd**
