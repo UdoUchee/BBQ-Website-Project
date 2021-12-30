@@ -4,14 +4,11 @@
 
 ![BBQ Master](/bbq_landing.JPG "BBQ_Master")
 
-
-**#imagineFrontEnd**
-
-Imagine you are a web desginer with at a Software development firm. You got a Web desiogn from the UI engineer. 
+Imagine you are a web designer at a Software development firm. You got a Web design from the UI engineer. 
 
 *TASK*
 
-The task is to implement the design as accuratly as depicted in the design.
+The task is to implement the design as accurately as depicted in the design.
 
 
 ## Tools used
